@@ -1,4 +1,4 @@
-## Amber's Take-Home Instructions 
+## Instructions to Run App
 
 1. To begin, open a new terminal and ``cd`` inside the main project folder.
 2. Next, run``npm install`` in the terminal to install the required node modules and their dependencies. 
@@ -9,6 +9,4 @@
 
 
 
-# clean-energy-app
-# clean-energy-app
-# clean-energy-app
+
