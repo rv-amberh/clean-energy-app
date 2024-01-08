@@ -8,5 +8,14 @@
 5. Switch to the terminal with the main project folder open and run ``npm run start`` to launch the front end. 
 
 
+## Demo
+
+
+
+
+
+https://github.com/rv-amberh/clean-energy-app/assets/94423627/5ee79d15-0041-4717-922e-2a23c3cfb5bd
+
+
 
 
